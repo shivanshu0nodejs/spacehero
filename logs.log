@@ -1,0 +1,148 @@
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T10:31:09.308Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T10:32:01.218Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T10:33:06.432Z"}
+{"level":"info","message":"Invalid otp","timestamp":"2024-01-08T10:35:41.353Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T10:35:54.417Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T10:36:11.086Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"name\":\"Shiva\",\"gender\":\"male\",\"referral\":\"8CD63HS\"}","timestamp":"2024-01-08T12:15:53.811Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-08T12:15:53.819Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"name\":\"Shiva\",\"gender\":\"male\",\"referral\":\"8CD63HS\"}","timestamp":"2024-01-08T12:16:22.335Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T12:16:22.432Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000002\",\"name\":\"Shiva\",\"gender\":\"male\",\"referral\":\"8CD63HS\"}","timestamp":"2024-01-08T12:16:45.836Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T12:17:07.297Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"GD73NAN72\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\",\"carName\":\"My Car\"}","timestamp":"2024-01-08T12:55:29.198Z"}
+{"level":"info","message":"Car added successfully","timestamp":"2024-01-08T12:55:29.314Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T12:57:58.921Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T12:58:01.218Z"}
+{"level":"info","message":"Login successfull","timestamp":"2024-01-08T12:58:03.135Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\",\"carName\":\"My Car\"}","timestamp":"2024-01-08T12:58:32.861Z"}
+{"level":"info","message":"Car added successfully","timestamp":"2024-01-08T12:58:32.940Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\",\"carName\":\"My Car\"}","timestamp":"2024-01-08T12:59:32.805Z"}
+{"level":"info","message":"Car added successfully","timestamp":"2024-01-08T12:59:32.870Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\",\"carName\":\"My Car\"}","timestamp":"2024-01-08T13:01:27.447Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-08T13:01:27.503Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"GD73NAN72\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\"}","timestamp":"2024-01-08T13:01:43.551Z"}
+{"level":"info","message":"Car added successfully","timestamp":"2024-01-08T13:01:43.633Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"GD73NAN72\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\"}","timestamp":"2024-01-08T13:02:09.998Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-08T13:02:10.058Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"GD73NAN72\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\",\"carName\":\"\"}","timestamp":"2024-01-08T13:02:20.290Z"}
+{"level":"info","message":"Car added successfully","timestamp":"2024-01-08T13:02:20.390Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"regNo\":\"GD73NAN72\",\"fuelType\":\"petrol\",\"transmission\":\"8CD63HS\",\"carName\":\"My Car\"}","timestamp":"2024-01-09T06:37:08.004Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-09T06:37:08.046Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":\"659bf0c1846cd1aec4bf159f\",\"regNo\":\"GD73NAN\",\"fuelType\":\"petroll\",\"transmission\":\"8CD63HSs\",\"carName\":\"My Cars\"}","timestamp":"2024-01-09T07:02:43.500Z"}
+{"level":"info","message":"Car updated successfully","timestamp":"2024-01-09T07:02:43.578Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":\"659bf0c1846cd1aec4bf159f\",\"regNo\":\"GD73NAN\",\"fuelType\":\"petroll\",\"carName\":\"My Cars\"}","timestamp":"2024-01-09T07:03:06.318Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-09T07:03:06.348Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":\"659bf0c1846cd1aec4bf159f\",\"fuelType\":\"petroll\",\"transmission\":\"8CD63HSs\",\"carName\":\"My Cars\"}","timestamp":"2024-01-09T07:03:13.237Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-09T07:03:13.266Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":\"659bf0c1846cd1aec4bf159f\",\"regNo\":\"GD73NAN\",\"fuelType\":\"petroll\",\"transmission\":\"8CD63HSs\"}","timestamp":"2024-01-09T07:03:19.643Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-09T07:03:19.672Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":\"659bf0c1846cd1aec4bf159f\",\"regNo\":\"GD73NAN\",\"fuelType\":\"petroll\",\"transmission\":\"8CD63HSs\",\"carName\":\"\"}","timestamp":"2024-01-09T07:03:28.022Z"}
+{"level":"info","message":"Car updated successfully","timestamp":"2024-01-09T07:03:28.087Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":[\"659bf1b4bad2a6d5111f7bdc\"]}","timestamp":"2024-01-09T07:04:47.109Z"}
+{"level":"info","message":"Failed to delete car","timestamp":"2024-01-09T07:04:47.167Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":[\"659bf1b4bad2a6d5111f7bde\"]}","timestamp":"2024-01-09T07:04:50.878Z"}
+{"level":"info","message":"Car deleted successfully","timestamp":"2024-01-09T07:04:50.943Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"carId\":[\"659bf178bad2a6d5111f7bdb\",\"659bf2374d0d40d3769fc2b3\"]}","timestamp":"2024-01-09T07:05:23.729Z"}
+{"level":"info","message":"Car deleted successfully","timestamp":"2024-01-09T07:05:23.820Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-09T07:06:17.567Z"}
+{"level":"info","message":"Car listing","timestamp":"2024-01-09T07:06:17.628Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000002\"}","timestamp":"2024-01-09T07:06:22.586Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-09T07:06:25.115Z"}
+{"level":"info","message":"Car listing","timestamp":"2024-01-09T07:06:25.172Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-09T07:06:43.070Z"}
+{"level":"info","message":"Car listing","timestamp":"2024-01-09T07:06:43.125Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-09T07:06:44.077Z"}
+{"level":"info","message":"Car listing","timestamp":"2024-01-09T07:06:44.140Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 36\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:46:26.059Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:46:26.149Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 37\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:51:26.049Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:51:26.129Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 38\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:51:29.558Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:51:29.622Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 39\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:51:40.646Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:51:40.708Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 40\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:52:01.444Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:52:01.506Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 40\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:53:16.953Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:53:17.036Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 40\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:53:47.408Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:53:47.491Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 40\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:54:46.596Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:54:46.679Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 40\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:55:31.518Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:55:31.601Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 40\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:56:21.785Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:56:21.913Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 41\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:56:37.391Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:56:37.455Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 42\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:56:41.867Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:56:41.931Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 43\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:56:56.167Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:56:56.233Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 44\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T05:57:12.406Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T05:57:12.472Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T06:07:08.449Z"}
+{"level":"info","message":"Car listing","timestamp":"2024-01-10T06:07:08.524Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e31a81b8da24e31271559\",\"status\":0}","timestamp":"2024-01-10T06:29:01.914Z"}
+{"level":"info","message":"Please enter required fields","timestamp":"2024-01-10T06:29:01.956Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e31a81b8da24e31271559\",\"status\":0}","timestamp":"2024-01-10T06:29:21.654Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:29:21.737Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e31a81b8da24e31271559\",\"status\":1}","timestamp":"2024-01-10T06:29:37.709Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:29:37.776Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e31a81b8da24e31271559\",\"status\":1}","timestamp":"2024-01-10T06:29:49.034Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:29:49.099Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e31a81b8da24e31271559\",\"status\":0}","timestamp":"2024-01-10T06:30:03.908Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:30:03.972Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 45\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T06:37:21.631Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T06:37:21.708Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 46\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T06:37:25.083Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T06:37:25.145Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 47\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T06:37:50.467Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T06:37:50.543Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e3b3e6482f5bc5faab024\",\"status\":0}","timestamp":"2024-01-10T06:38:25.774Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:38:25.894Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 48\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T06:38:39.737Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T06:38:39.798Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e3b6f6482f5bc5faab02d\",\"status\":0}","timestamp":"2024-01-10T06:39:08.441Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:39:08.554Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"heading\":\"Sector 49\",\"detail\":\"Area Noida.\",\"lat\":\"73.292.24\",\"long\":\"7234.83.24\"}","timestamp":"2024-01-10T06:39:26.734Z"}
+{"level":"info","message":"Address added successfully","timestamp":"2024-01-10T06:39:26.800Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e3b6f6482f5bc5faab02d\",\"status\":1}","timestamp":"2024-01-10T06:40:26.057Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:40:26.208Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e3b6f6482f5bc5faab02d\",\"status\":0}","timestamp":"2024-01-10T06:41:08.321Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:41:08.444Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\",\"addressId\":\"659e3b9e6482f5bc5faab035\",\"status\":0}","timestamp":"2024-01-10T06:41:16.181Z"}
+{"level":"info","message":"Saved updated","timestamp":"2024-01-10T06:41:16.324Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:25:37.705Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:25:37.794Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:26:21.215Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:26:21.281Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:26:22.561Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:26:22.627Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:26:24.073Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:26:24.143Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:26:25.729Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:26:25.794Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:26:27.311Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:26:27.375Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:26:42.487Z"}
+{"level":"info","message":"Recent list","timestamp":"2024-01-10T08:26:42.562Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:39:50.496Z"}
+{"level":"info","message":"Recent address list","timestamp":"2024-01-10T08:39:50.610Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:39:52.608Z"}
+{"level":"info","message":"Recent address list","timestamp":"2024-01-10T08:39:52.685Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:11.073Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:11.151Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:16.024Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:16.122Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:17.099Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:17.174Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:18.199Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:18.274Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:19.327Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:19.401Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:29.343Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:29.415Z"}
+{"level":"info","message":"INSIDE AUTHENTICATION {\"userId\":\"SPH000001\"}","timestamp":"2024-01-10T08:40:31.420Z"}
+{"level":"info","message":"Saved address list","timestamp":"2024-01-10T08:40:31.495Z"}
