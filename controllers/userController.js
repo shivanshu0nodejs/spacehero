@@ -289,7 +289,7 @@ const addProfile = async(req, res) => {
 
     try{
 
-        const {userId, name, gender, referral} = req.body;
+        const {userId, name, email, gender, referral} = req.body;
 
         if(userId != null && userId != undefined, name != null && name != undefined){
 
@@ -297,6 +297,7 @@ const addProfile = async(req, res) => {
 
                 name: name,
                 gender: gender,
+                email: email,
                 referral: referral
             }
 
@@ -309,6 +310,7 @@ const addProfile = async(req, res) => {
                     userId: userId,
                     name: name,
                     gender: gender,
+                    email: email,
                     referral: referral
                 }
             })
