@@ -209,6 +209,7 @@ const couponList = async (req, res) => {
                     detail: num.detail,
                     type: num.type,
                     discount: num.discount,
+                    discountPercentage: num.discountPercentage,
                     startDate: num.startDate,
                     endDate: num.endDate,
                     status: num.status,
