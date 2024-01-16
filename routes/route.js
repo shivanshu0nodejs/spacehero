@@ -2,9 +2,20 @@ const express = require("express");
 const router = express.Router();
 const {verifyToken} = require("../middleware/authantication.js");
 
+const Home = require("../controllers/testController.js");
 const User = require("../controllers/userController.js");
 const Car = require("../controllers/myCarController.js");
 const Saddress = require("../controllers/searchAddressController.js");
+const Coupon = require("../controllers/couponController.js");
+
+
+// TEST ROUTES START //
+
+router.route("/").get(Home.homePage);
+
+// TEST ROUTES END //
+
+
 
 // USER ROUTES START //
 
@@ -26,7 +37,7 @@ router.route("/carlist").post(verifyToken, Car.carList);
 // CAR ROUTES END //
 
 
-// CAR ROUTES START //
+// ADDRESS ROUTES START //
 
 router.route("/addsearchadd").post(verifyToken, Saddress.addAddress);
 router.route("/updatesaved").post(verifyToken, Saddress.savedAddress);
@@ -34,7 +45,18 @@ router.route("/recentaddress").post(verifyToken, Saddress.recentList);
 router.route("/savedaddress").post(verifyToken, Saddress.savedList);
 
 
-// CAR ROUTES END //
+// ADDRESS ROUTES END //
+
+
+// COUPON ROUTES START //
+
+router.route("/addcoupon").post(verifyToken, Coupon.addCoupon);
+router.route("/editcoupon").post(verifyToken, Coupon.editCoupon);
+router.route("/couponlist").post(verifyToken, Coupon.couponList);
+router.route("/deletecoupon").post(verifyToken, Coupon.deleteCoupon);
+
+
+// COUPON ROUTES END //
 
 
 module.exports = router;
