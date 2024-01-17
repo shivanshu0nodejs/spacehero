@@ -180,13 +180,14 @@ const carList = async (req, res) => {
 
         if(userId != undefined && userId != ""){
 
-            var info = await Car.find().sort({_id: -1});
+            var info = await Car.find({userId: userId}).sort({_id: -1});
     
             var Data = await Promise.all(info.map(async (num) => {
 
                 return {
 
                     _id: num._id,
+                    userId: num.userId,
                     regNo: num.regNo,
                     fuelType: num.fuelType,
                     transmission: num.transmission,
