@@ -24,6 +24,10 @@ const userSchema = new mongoose.Schema({
     userImage: {
         type: String
     },
+    imageStatus: {
+        
+        type: Number
+    },
     referral: {
         type: String
     },
@@ -36,9 +40,18 @@ const userSchema = new mongoose.Schema({
     role:{
         type: Number
     },
+    active:{
+        type: Number
+    },
+    joinAs:{
+        type: String
+    },
     gender:{
         type: String
     },
+    language:[
+
+    ],
     tokens:{
         type: String
     },
