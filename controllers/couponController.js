@@ -94,58 +94,43 @@ const editCoupon = async (req, res)=> {
 
             if(usr.role == 1){
 
-                const cpn = await Coupon.findOne({_id: couponId});
-
-                if(cpn != null){
-
-                    var Data = ({
+                var Data = ({
     
-                        heading: heading,
-                        detail: detail,
-                        type: type,
-                        discount: discount,
-                        discountPercentage: discountPercentage,
-                        startDate: startDate,
-                        endDate: endDate,
-                        status: status,
-                        AddedBy: userId
+                    heading: heading,
+                    detail: detail,
+                    type: type,
+                    discount: discount,
+                    discountPercentage: discountPercentage,
+                    startDate: startDate,
+                    endDate: endDate,
+                    status: status,
+                    AddedBy: userId
 
-                    })
+                })
 
-                    const updateStatus = await Coupon.updateOne({ _id: couponId }, {$set: Data });
-    
-                    if(updateStatus.modifiedCount == 1){
-            
-                        res.send({
-                            
-                            Status: true,
-                            Message: "Coupon edited successfully",
-                            Data
-                            
-                        })
+                const updateStatus = await Coupon.updateOne({ _id: couponId }, {$set: Data });
 
-                        logs.newLog.log('info', "Coupon edited successfully");
+                if(updateStatus.modifiedCount == 1){
         
-                    }else{
-                        
-                        res.send({
-                            Status: true,
-                            Message: "Failed to updated blog",
-                            Data
-                        })
-        
-                        logs.newLog.log('info', "Failed to updated blog");
-
-                    }
-
-                }else{
-            
                     res.send({
-                        Status: false,
-                        Message: "Coupon not found"
+                        
+                        Status: true,
+                        Message: "Coupon edited successfully",
+                        Data
+                        
                     })
 
-                    logs.newLog.log('info', "Coupon not found");
+                    logs.newLog.log('info', "Coupon edited successfully");
+    
+                }else{
+                    
+                    res.send({
+                        Status: true,
+                        Message: "Failed to updated coupon",
+                        Data
+                    })
+    
+                    logs.newLog.log('info', "Failed to updated coupon");
 
                 }
 
@@ -218,14 +203,14 @@ const couponList = async (req, res) => {
                 };
 
             }));
-
-            logs.newLog.log('info', "Coupon list");
     
             res.send({
                 Status: true,
                 Message: "Coupon list",
                 Data
             })
+
+            logs.newLog.log('info', "Coupon list");
 
         }else{
 
